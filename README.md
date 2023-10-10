@@ -9,7 +9,7 @@ Meu foco atualmente está em Full-Stack
 <div>
 
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jhonnyscott&show_icons=true&theme=highcontrast"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyscott&layout=compact&theme=highcontrast"/>
+  <img height="80cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyscott&layout=compact&theme=highcontrast"/>
   
 </div>
 
