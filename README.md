@@ -1,16 +1,34 @@
-### Hi there 👋
+# 🧔🏻 Hi there
 
-<!--
-**jhonnyscott/jhonnyscott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Jhonny Scott
 
-Here are some ideas to get you started:
+Desenvolvedor Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu foco atualmente está em Full-Stack
+
+<div>
+
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jhonnyscott&show_icons=true&theme=highcontrast"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyscott&layout=compact&theme=highcontrast"/>
+  
+</div>
+
+# 🌎 Let's get connected? 
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+)](https://discord.com/channels/@jhonnyscott)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/jhonnyscott/)
+[![]()]()
+
+# 🛠️ Technologies e Tools I use:
+
+<div>
+  <img align"center" alt="Jhonny-html" height="80" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align"center" alt="Jhonny-css" height="80" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align"center" alt="Jhonny-js" height="80" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align"center" alt="Jhonny-ts" height="80" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img align"center" alt="Jhonny-node" height="80" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img align"center" alt="Jhonny-mysql" height="80" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img align"center" alt="Jhonny-docker" height="80" widht="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+</div>
