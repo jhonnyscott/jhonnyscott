@@ -2,7 +2,7 @@
 
 Eu sou Jhonny Scott
 
-Desenvolvedor Web Full-Stack pela Trybe.
+Desenvolvedor Web Full-Stack pela Trybe. <br>
 Atualmente cursando Engenharia de Software pela Unicesumar.
 
 <div>
